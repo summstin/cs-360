@@ -1,1 +1,13 @@
 # cs-360
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+This apps purpose is to allow users to track their weight daily and see how close they are towards their goal weight. This app is intended for users looking to manage their weight in a lightweight and simple application.
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+A login/account creation screen, a main screen that tracks your data on a grid, and an SMS notification prompt were all necessary to this project. UI kept users in mind by keeping it simplistic, while still maintaining the visual flow between screens. I believe they were successful because they were clean and cohesive.
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+When coding the app, I tried to build parts in order of how a user would navigate through the app. I started with the login and acccount creation progress as that is the first screen users see when they open the app. I also tried to get a rudimentary functional version of the app created first, and then altered it to align with my UI design. This can be applied to projects in the future as getting functionality done first is important before altering how it is visually presented.
+How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+To ensure my coding was functional, I tested all functionalities of the app, such as account creation and logging in, and ensuring that data does not remain if you delete the app. While testing this way, I realized that the SMS notification prompt was shown after every login, so I changed it to be a one-time prompt after logging in for the first time.
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+When coding the app, I had to alter my UI to overcome issues in the coding process. This included changing my table, so that I could add an edit button for users to change their input if they made a mistake. 
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I believe the login and account creation component was best at demonstrating skills. Many systems and applications require some sort of login or authorization process and creating that in my project demonstrates understanding of proper account implementation.
